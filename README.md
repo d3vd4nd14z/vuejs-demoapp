@@ -1,9 +1,7 @@
 # demoapp-vue
 
 ## Project Site URL
-```
 https://fervent-nobel-fa1b06.netlify.app
-```
 
 ## Project setup
 ```
